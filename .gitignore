@@ -1,0 +1,9 @@
+# Nada de video ni frames de clientes
+/samples/
+/out/
+/referencias/
+__pycache__/
+*.mp4
+*.MP4
+*.mov
+*.MOV
